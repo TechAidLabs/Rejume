@@ -9,7 +9,7 @@
         <mxCell id="2" value="Resume" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="100" y="100" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="resume_id (PK)\naddress_id (FK → Address)" style="text;html=1;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+        <mxCell id="3" value="resume_id (PK)&#10;address_id (FK → Address)" style="text;html=1;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
           <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
         </mxCell>
 
